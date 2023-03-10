@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo
 !/bin/bash
 ALX
@@ -7,3 +8,9 @@ ALX School is so cool!
 =======
 ALX School
 >>>>>>> update_script
+=======
+!/bin/bash
+echo ALX School
+
+
+>>>>>>> f6dec53b49162d15ee68cbf1d9a56f26a7d4b448
